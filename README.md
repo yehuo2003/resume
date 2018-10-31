@@ -1,2 +1,2 @@
 # resume
-welcomen My Personal Profile
+welcome My Personal Profile
